@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Potion of Eternal Love",
+    "price": 14.99,
+    "imgUrl": "public/imgs/love.png"
+  },
+  {
+    "id": 2,
+    "name": "Script of Elders",
+    "price": 1.99,
+    "imgUrl": "public/imgs/script.png"
+  },
+  {
+    "id": 3,
+    "name": "Crystal Ball of Future",
+    "price": 99.99,
+    "imgUrl": "public/imgs/crystal-ball.png"
+  },
+  {
+    "id": 4,
+    "name": "Cursed Gems",
+    "price": 39.99,
+    "imgUrl": "public/imgs/gems.png"
+  },
+  {
+    "id": 5,
+    "name": "Magical Mushrooms",
+    "price": 9.99,
+    "imgUrl": "public/imgs/mushroom.png"
+  },
+  {
+    "id": 6,
+    "name": "Poison for Unloved",
+    "price": 4.99,
+    "imgUrl": "public/imgs/poison.png"
+  },
+  {
+    "id": 7,
+    "name": "Tarot Cards",
+    "price": 11.99,
+    "imgUrl": "public/imgs/tarot.png"
+  },
+  {
+    "id": 8,
+    "name": "Broom 2 in 1 for a Clean Flight!",
+    "price": 55.99,
+    "imgUrl": "public/imgs/witch-broom.png"
+  },
+  {
+    "id": 9,
+    "name": "A (Too Much) Talking Cat",
+    "price": 0.0,
+    "imgUrl": "public/imgs/cat.png"
+  }
+]
